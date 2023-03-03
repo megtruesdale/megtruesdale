@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @megtruesdale
 - 👀 I’m interested in cyber security, machine learning, and video game programming.
 - 🌱 I’m currently tackling new projects, trying to familiarize myself further with web scraping, and also trying to be more active regarding uploading my projects to github.
-- My website mtruesdale.com
+- My website *under construction*
 - 📫 How to reach me megtruesdale@gmail.com
 
 <!---
